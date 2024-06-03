@@ -8,13 +8,13 @@
 # Declaration of variables
 
 # Declaration of functions
-# This function calls the login history of the machine
+# This function calls the user login history of the machine
 login_history() {
     last
-    }
+}
 
 # Main
-
+# This displays the user login history in the terminal 3 times
 login_history
 login_history
 login_history

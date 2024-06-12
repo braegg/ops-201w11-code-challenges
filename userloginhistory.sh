@@ -14,7 +14,7 @@ login_history() {
 }
 
 # Main
-# This displays the user login history in the terminal 3 times
+# Displays the user login history in the terminal 3 times
 login_history
 login_history
 login_history
